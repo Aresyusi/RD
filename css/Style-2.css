@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+.topbar {
+  height: 50px;
+  line-height: 50px;
+}
+.topbar a {
+  color: white;
+}
+.topbar a:hover {
+  color: #FFC113;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+  padding: 20px 50px;
+  border-radius: 30px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #FFFFFF;
+  background-color:#DC3545;
+}
+main {
+  min-height: 500px;
+}
+.footer {
+  min-height: 200px;
+}
+.gachchan {
+  border-bottom: 2px solid #DC3545;
+}
+.footer .navbar-nav .nav-item .nav-link:hover {
+  color: #DC3545;
+}
+#service a {
+  text-decoration: none;
+  color: #056CB6
+}
+#service a:hover {
+  color: #DC3545;
+}
+#why
+{
+	width: 100%; min-height: 450px;
+	background-image: url("../images/t1 team.png");background-repeat: no-repeat;background-size: cover; background-position: center top;
+}
+.clien
+{
+	width: 100%; position: relative;
+}
